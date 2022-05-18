@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  albertochart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-18T15:09:50.887805487Z"
+    description: A Helm chart for Kubernetes
+    digest: f51421139869db3ec9daf8ce386c2760e1795d8467834009f2fadcf9cb333730
+    name: albertochart
+    type: application
+    urls:
+    - albertochart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-18T15:09:50.885537337Z"
